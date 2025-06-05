@@ -5,4 +5,6 @@ tomato
 onion
 cilantro
 lime
+salt
+pepper
 ##Instructions
